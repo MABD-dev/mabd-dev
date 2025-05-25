@@ -1,5 +1,5 @@
 
-# Hello 👋, MABD here
+# Hello 👋
 
 
 
@@ -16,6 +16,7 @@
 <!-- Nice to see you here!<br> -->
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdallah-66200915b/) -->
 
+<!--
 </br>
 
 ### 🛠 Languages and Tools
@@ -29,8 +30,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mabd-dev&theme=highcontrast&layout=compact&show_icons=true&count_private=true) 
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
+-->
 
 <!-- this is **open source development** 🐧! -->
 
