@@ -1,5 +1,20 @@
+# MABD-dev
 
-# Hello 👋
+| <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabd-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
+
+
+<h2 align='center'><i><a href="https://github.com/mabd-dev/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/mabd-dev/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabd-dev&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/mabd-dev/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabd-dev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mabd-dev)](https://git.io/streak-stats)
 
 
 
