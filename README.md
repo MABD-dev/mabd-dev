@@ -5,13 +5,13 @@
 
 | Type   | Repo  |
 | ---------------------------------------------------------------------- | ---------------------------------------- |
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> | - [qamarelsafadi/JetpackComposeTracker](https://github.com/qamarelsafadi/JetpackComposeTracker)<br>- [android/nav3-recipes](https://github.com/android/nav3-recipes)<br>- [android/cahier](https://github.com/android/cahier)<br>- [esatgozcu/Compose-Rolling-Number](https://github.com/esatgozcu/Compose-Rolling-Number)  |
-| <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> | - [zuzmuz/nvimawscli](https://github.com/zuzmuz/nvimawscli) |
+| <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> | [qamarelsafadi/JetpackComposeTracker](https://github.com/qamarelsafadi/JetpackComposeTracker)<br> [android/nav3-recipes](https://github.com/android/nav3-recipes)<br> [android/cahier](https://github.com/android/cahier)<br> [esatgozcu/Compose-Rolling-Number](https://github.com/esatgozcu/Compose-Rolling-Number)  |
+| <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> | [zuzmuz/nvimawscli](https://github.com/zuzmuz/nvimawscli) |
 
 
 <br>
 
-| <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabd-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+<a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabd-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabd-dev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
