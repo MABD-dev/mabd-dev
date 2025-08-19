@@ -11,10 +11,13 @@
 
 <br>
 
+<!--
 <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mabd-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/mabd-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabd-dev&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mabd-dev&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+-->
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mabd-dev)](https://git.io/streak-stats)
 
